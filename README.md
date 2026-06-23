@@ -161,3 +161,21 @@ If you choose `6` or enter a custom topic like `Docker`, the agent generates dyn
 | **Introductory Courses on Docker (Coursera)** | [Link](https://www.coursera.org/search?query=Introduction+to+Docker) | Academic foundation courses covering the basics of the topic. |
 | **Beginner Video Guides on Docker (YouTube)** | [Link](https://www.youtube.com/results?search_query=Docker+tutorial+for+beginners) | Curated search for foundational visual guides and step-by-step introductions. |
 ```
+## Privacy and Security
+
+The AI Study Mentor project prioritizes user privacy and secure data handling.
+
+### Security Features
+- Input validation is implemented to prevent invalid or malicious user inputs.
+- Date validation ensures users enter future target dates only.
+- Study hours are restricted to realistic values (0.1 to 24 hours).
+- Error handling mechanisms prevent application crashes caused by invalid inputs.
+
+### Privacy Policy
+- This project does not collect, store, or share personal information with third parties.
+- All user data is processed locally on the user's device.
+- Generated study plans and progress reports remain under the user's control.
+
+### Best Practices
+- Users should avoid entering sensitive personal information.
+- Future versions may include authentication and encrypted storage for enhanced security.
